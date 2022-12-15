@@ -1,0 +1,116 @@
+id: 184a9ac078e54ca3a7ce98148d138e63
+annotation_type: Segment
+revision: '00001'
+annotations:
+  5f4795f181784b1890b2709fe645e976:
+    span:
+      start: 0
+      end: 48
+  cb08916ea45141c488697dd3e0db981c:
+    span:
+      start: 50
+      end: 84
+  293d79ab388b4e8195944297810367d1:
+    span:
+      start: 86
+      end: 127
+  3ed64fcd5eda490b8e3f1933e92f82de:
+    span:
+      start: 129
+      end: 195
+  763c516b4cc04bbbac97c5d1579bc933:
+    span:
+      start: 197
+      end: 353
+  34818d1a6117459c95b4c2e7c67e223f:
+    span:
+      start: 355
+      end: 530
+  24b87801d5844d49a775ae4e4cddcbda:
+    span:
+      start: 532
+      end: 607
+  cec6b8e266fb4490abca0b29c355c4b5:
+    span:
+      start: 609
+      end: 685
+  6d8fa081c4a443d9817fef9ea1e055c1:
+    span:
+      start: 687
+      end: 774
+  ff0fa10f92344e1ba6797a5cf2db12fa:
+    span:
+      start: 776
+      end: 836
+  7d19ac2ef988440793f770dd060b93b3:
+    span:
+      start: 838
+      end: 869
+  9f44dd7f1279465085367e30b65e61d6:
+    span:
+      start: 871
+      end: 946
+  c2e627db626340549ce82c17691a62a5:
+    span:
+      start: 948
+      end: 1050
+  4879598290ec47a6b9a152aa48f8d5da:
+    span:
+      start: 1052
+      end: 1170
+  f63be224237b4a0682e895d188e58a54:
+    span:
+      start: 1172
+      end: 1205
+  f5646fbfa9ac4becacac0b99f7889623:
+    span:
+      start: 1207
+      end: 1283
+  36992511ad6b440fbaf9b3b95c3691b6:
+    span:
+      start: 1285
+      end: 1351
+  ae2d74c263ad4ce7a14a03d9dfe184a3:
+    span:
+      start: 1353
+      end: 1481
+  e7185d88b1c847a8ada7f8aa9a98e0ba:
+    span:
+      start: 1483
+      end: 1539
+  0e4258812b8b44f3a66a1011abe598e4:
+    span:
+      start: 1541
+      end: 1650
+  420b05937b8a4774a55af2b8099351e0:
+    span:
+      start: 1652
+      end: 1748
+  c0b07e7ef10b4b4897f015f5afcdda05:
+    span:
+      start: 1750
+      end: 1789
+  8eedf7ff659d4a38b40c7f09988df53b:
+    span:
+      start: 1791
+      end: 1869
+  f7f57be7aff443b1b88aedf08efc97a4:
+    span:
+      start: 1871
+      end: 1983
+  ef43436deb3141a5a8d46ed9e3c4699d:
+    span:
+      start: 1985
+      end: 2055
+  a37eb9909e664780ba2deb69f55f74a5:
+    span:
+      start: 2057
+      end: 2160
+  20f6c0158210496ebde3d798ddeeee45:
+    span:
+      start: 2162
+      end: 2240
+  99da7dec1b8d4764a0c078f78b25a196:
+    span:
+      start: 2242
+      end: 2528
